@@ -1,2 +1,2 @@
 # matplotlib-challenge
-Analyzing a cancer medication
+Analyzing cancer medications
